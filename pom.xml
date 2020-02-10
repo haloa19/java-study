@@ -32,5 +32,6 @@
   	<module>chapter04</module>
   	<module>java-practice01</module>
   	<module>java-practice02</module>
+  	<module>java-practice03</module>
   </modules>
 </project>
