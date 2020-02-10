@@ -36,5 +36,6 @@
   	<module>java-practice04</module>
   	<module>java-practice05</module>
   	<module>network-practice</module>
+  	<module>network-chattingprogram</module>
   </modules>
 </project>
